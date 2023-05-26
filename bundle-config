@@ -1,11 +1,11 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 1
+        "VERSION": ""
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": 
+        "VERSION": ""
     },
         "LOADING" : {
         "BUNDLE":"Loading",
