@@ -5,7 +5,7 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": ""
+        "VERSION": 1
     },
         "LOADING" : {
         "BUNDLE":"Loading",
