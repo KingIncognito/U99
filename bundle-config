@@ -7,7 +7,7 @@
         "BUNDLE":"CommonAssets",
         "VERSION": 1
     },
-        "LOADING" : {
+     "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
         "VERSION": 1
@@ -135,7 +135,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiuDouble",
         "PREFAB": "prefab/TaiXiuDouble",
-        "VERSION": 2
+        "VERSION": 3
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
