@@ -135,12 +135,12 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiuDouble",
         "PREFAB": "prefab/TaiXiuDouble",
-        "VERSION": 6
+        "VERSION": 7
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": 2
+        "VERSION": 3
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
