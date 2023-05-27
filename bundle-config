@@ -15,7 +15,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": 1
+        "VERSION": 2
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -135,7 +135,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiuDouble",
         "PREFAB": "prefab/TaiXiuDouble",
-        "VERSION": 4
+        "VERSION": 5
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
