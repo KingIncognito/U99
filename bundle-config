@@ -135,7 +135,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": 11
+        "VERSION": 12
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
