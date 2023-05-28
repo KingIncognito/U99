@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": 13
+        "VERSION": 14
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
@@ -50,7 +50,7 @@
     "MauBinh" : {
         "BUNDLE": "MauBinh",
         "SCENE": "scene/MauBinh",
-        "VERSION": 13
+        "VERSION": 14
     },
     "OanTuTi": {
         "BUNDLE": "OanTuTi",
@@ -130,7 +130,7 @@
     "SuperSpeedLotery" : {
         "BUNDLE": "SuperSpeedLotery",
         "SCENE": "scene/SuperSpeedLotery",
-        "VERSION": 13
+        "VERSION": 14
     },
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
