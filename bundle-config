@@ -35,7 +35,7 @@
     "CaoThap" : {
         "BUNDLE":"CaoThap",
         "PREFAB":"prefab/CaoThap",
-        "VERSION": 2
+        "VERSION": 3
     },
     "Lieng" : {
         "BUNDLE": "Lieng",
