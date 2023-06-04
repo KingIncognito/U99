@@ -3,6 +3,10 @@
         "BUNDLE":"scripts",
         "VERSION": 15
     },
+    "PLUGINS" : {
+        "BUNDLE":"plugins",
+        "VERSION": 13
+    },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
         "VERSION": 13
