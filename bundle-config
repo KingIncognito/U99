@@ -9,7 +9,7 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": 13
+        "VERSION": 14
     },
      "LOADING" : {
         "BUNDLE":"Loading",
